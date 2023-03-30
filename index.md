@@ -11,3 +11,4 @@
 ## 보존된 푸치 프로필 목록
 * [puchidere](etc/puchi/puchidere)
 * [puchidere1](etc/puchi/puchidere1)
+* [bread_nene_mutsumi](etc/puchi/bread_nene_mutsumi)
